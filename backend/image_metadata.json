@@ -1,0 +1,4 @@
+[
+    {"region": "north", "lat_start": 30, "lat_end": 40, "lon_start": 60, "lon_end": 80},
+    {"region": "south", "lat_start": 0, "lat_end": 10, "lon_start": 60, "lon_end": 80}
+]
